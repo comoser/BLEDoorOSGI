@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.kura:org.eclipse.kura.core:1.0.201">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/kura/org.eclipse.kura.core/1.0.201/org.eclipse.kura.core-1.0.201.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/kura/org.eclipse.kura.core/1.0.201/org.eclipse.kura.core-1.0.201-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/kura/org.eclipse.kura.core/1.0.201/org.eclipse.kura.core-1.0.201-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
